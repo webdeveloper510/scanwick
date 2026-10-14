@@ -1,0 +1,130 @@
+{
+  "borrowers": [
+    {
+      "id": "b01",
+      "name": "Adaeze Okafor",
+      "facility_amount_kobo": 150000000,
+      "outstanding_kobo": 112500000,
+      "next_repayment_date": "2026-11-05",
+      "last_read_at": "2026-10-11T09:15:00Z",
+      "status": "connected",
+      "open_signals": [
+        {
+          "severity": "watch"
+        }
+      ]
+    },
+    {
+      "id": "b02",
+      "name": "Musa Danjuma Trading",
+      "facility_amount_kobo": 500000000,
+      "outstanding_kobo": null,
+      "next_repayment_date": "2026-11-01",
+      "last_read_at": null,
+      "status": "not_refreshed",
+      "open_signals": []
+    },
+    {
+      "id": "b03",
+      "name": "Chinonso Eze",
+      "facility_amount_kobo": 80000000,
+      "outstanding_kobo": 0,
+      "next_repayment_date": null,
+      "last_read_at": "2026-10-10T16:02:00Z",
+      "status": "connected",
+      "open_signals": []
+    },
+    {
+      "id": "b04",
+      "name": "Oluwaseun Adebayo-Ogunleye Enterprises Nigeria Limited",
+      "facility_amount_kobo": 1234567890,
+      "outstanding_kobo": 987654321,
+      "next_repayment_date": "2026-10-28",
+      "last_read_at": "2026-10-11T23:40:00Z",
+      "status": "connected",
+      "open_signals": [
+        {
+          "severity": "watch"
+        },
+        {
+          "severity": "urgent"
+        },
+        {
+          "severity": "act"
+        }
+      ]
+    },
+    {
+      "id": "b05",
+      "name": "Halima Bello",
+      "facility_amount_kobo": 25000000,
+      "outstanding_kobo": 1999,
+      "next_repayment_date": "2026-10-15",
+      "last_read_at": "2026-10-09T07:00:00Z",
+      "status": "consent_withdrawn",
+      "open_signals": [
+        {
+          "severity": "urgent"
+        }
+      ]
+    },
+    {
+      "id": "b06",
+      "name": "Ifeanyi Nwosu",
+      "facility_amount_kobo": 60000000,
+      "outstanding_kobo": 45000050,
+      "next_repayment_date": "2026-11-20",
+      "last_read_at": "2026-10-11T12:30:00Z",
+      "status": "connected",
+      "open_signals": [
+        {
+          "severity": "informational"
+        },
+        {
+          "severity": "informational"
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "name": "Blessing Okon",
+      "facility_amount_kobo": 100000000,
+      "outstanding_kobo": 9000000,
+      "next_repayment_date": "2026-12-31",
+      "last_read_at": "2026-10-11T22:59:00Z",
+      "status": "connected",
+      "open_signals": [
+        {
+          "severity": "act"
+        }
+      ]
+    },
+    {
+      "id": "b08",
+      "name": "Tunde Bakare",
+      "facility_amount_kobo": 300000000,
+      "outstanding_kobo": 210000000,
+      "next_repayment_date": "2026-10-20",
+      "last_read_at": "2026-10-11T23:00:00Z",
+      "status": "connected",
+      "open_signals": [
+        {
+          "severity": "watch"
+        },
+        {
+          "severity": "act"
+        }
+      ]
+    },
+    {
+      "id": "b09",
+      "name": "aisha mohammed",
+      "facility_amount_kobo": 40000000,
+      "outstanding_kobo": 32000000,
+      "next_repayment_date": "2026-11-12",
+      "last_read_at": "2026-10-11T08:45:00Z",
+      "status": "connected",
+      "open_signals": []
+    }
+  ]
+}
